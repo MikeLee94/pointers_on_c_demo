@@ -3,7 +3,7 @@
 #define INITSTR 10
 #define INITNUM 10
 #define INITLEN 100
-#include "..\c_programming_language\pub_lib.c"
+#include "pub_lib.c"
 
 int main()
 {
